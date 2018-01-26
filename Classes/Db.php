@@ -3,10 +3,10 @@
 
 class DB {
 
-    private $_host = "shareddb-f.hosting.stackcp.net";
-	private $_username = "yourdb-3234005c";
-	private $_password = "m0bbar94";
-    private $_database = "yourdb-3234005c";
+    private $_host = "<your host>";
+    private $_username = "<your username>";
+    private $_password = "<your password>";
+    private $_database = "<your db>";
     public $link;
 
     function __construct() {
