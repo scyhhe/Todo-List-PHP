@@ -10,7 +10,7 @@
     
     $success = "";
     $error = "";
-    $duplicate = true;
+    
 
     // DELETE TODO BY ID
     if ( isset($_POST['id'])) {
